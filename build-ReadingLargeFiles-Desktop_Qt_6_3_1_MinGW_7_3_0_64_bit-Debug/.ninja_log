@@ -1,0 +1,14 @@
+# ninja log v5
+1	273	7314405081276247	ReadingLargeFiles_autogen/timestamp	4a1bbd93a8c9d462
+1	273	7314405081276247	ReadingLargeFiles_autogen/mocs_compilation.cpp	4a1bbd93a8c9d462
+1	273	7314405081276247	F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/ReadingLargeFiles_autogen/timestamp	4a1bbd93a8c9d462
+1	273	7314405081276247	F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/ReadingLargeFiles_autogen/mocs_compilation.cpp	4a1bbd93a8c9d462
+274	525	7314405084507179	CMakeFiles/ReadingLargeFiles.dir/ReadingLargeFiles_autogen/mocs_compilation.cpp.obj	eff8ab5949b81142
+277	2189	7314405101152641	CMakeFiles/ReadingLargeFiles.dir/main.cpp.obj	e1127d415dad8f9e
+2192	2367	7314405102852086	ReadingLargeFiles.exe	b0e93d9c85ceb822
+13	126	7314405386015199	ReadingLargeFiles_autogen/timestamp	4a1bbd93a8c9d462
+13	126	7314405386015199	ReadingLargeFiles_autogen/mocs_compilation.cpp	4a1bbd93a8c9d462
+13	126	7314405386015199	F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/ReadingLargeFiles_autogen/timestamp	4a1bbd93a8c9d462
+13	126	7314405386015199	F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/ReadingLargeFiles_autogen/mocs_compilation.cpp	4a1bbd93a8c9d462
+128	2427	7314405409027179	CMakeFiles/ReadingLargeFiles.dir/main.cpp.obj	e1127d415dad8f9e
+2427	2656	7314405411265122	ReadingLargeFiles.exe	b0e93d9c85ceb822

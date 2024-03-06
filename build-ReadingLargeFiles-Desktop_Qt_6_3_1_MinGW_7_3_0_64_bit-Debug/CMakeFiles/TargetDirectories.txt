@@ -1,5 +1,0 @@
-F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/CMakeFiles/ReadingLargeFiles.dir
-F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/CMakeFiles/edit_cache.dir
-F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/CMakeFiles/ReadingLargeFiles_autogen_timestamp_deps.dir
-F:/Qt Learn/Udemy/Qt-Learnings/build-ReadingLargeFiles-Desktop_Qt_6_3_1_MinGW_7_3_0_64_bit-Debug/CMakeFiles/ReadingLargeFiles_autogen.dir
